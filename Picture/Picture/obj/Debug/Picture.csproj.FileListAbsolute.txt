@@ -5,3 +5,10 @@ C:\Users\danya\source\repos\Picture\Picture\obj\Debug\Picture.csproj.AssemblyRef
 C:\Users\danya\source\repos\Picture\Picture\obj\Debug\Picture.csproj.CoreCompileInputs.cache
 C:\Users\danya\source\repos\Picture\Picture\obj\Debug\Picture.exe
 C:\Users\danya\source\repos\Picture\Picture\obj\Debug\Picture.pdb
+C:\Users\danya\Desktop\PictureBox\Picture\Picture\bin\Debug\Picture.exe.config
+C:\Users\danya\Desktop\PictureBox\Picture\Picture\bin\Debug\Picture.exe
+C:\Users\danya\Desktop\PictureBox\Picture\Picture\bin\Debug\Picture.pdb
+C:\Users\danya\Desktop\PictureBox\Picture\Picture\obj\Debug\Picture.csproj.AssemblyReference.cache
+C:\Users\danya\Desktop\PictureBox\Picture\Picture\obj\Debug\Picture.csproj.CoreCompileInputs.cache
+C:\Users\danya\Desktop\PictureBox\Picture\Picture\obj\Debug\Picture.exe
+C:\Users\danya\Desktop\PictureBox\Picture\Picture\obj\Debug\Picture.pdb
